@@ -3,14 +3,31 @@
   
       "Grains": [
           "barley",
-          "wheat"
+          "wheat",
+          "Maize",
+          "Pearl millet",
+          "Sorghum",
+          "Buckwheat",
       ],
       "Protein_Foods":[
           "goat",
-          "fish"
+          "fish",
+          "chicken",
+          "eggs",
+          "legumes",
+          "dals",
+          "sprouts ",
+          "pulses",
+          "Beans",
+          "Tofu",
+       
+    
       ],
       "Dairy":[
           "buttermilk",
           "flavored milks"
+          "yogurt",
+          "cheese",        
       ]
+    "":[
   }
