@@ -5,29 +5,48 @@
           "barley",
           "wheat",
           "Maize",
-          "Pearl millet",
+          "Pearl_millet",
           "Sorghum",
           "Buckwheat",
       ],
-      "Protein_Foods":[
-          "goat",
-          "fish",
-          "chicken",
-          "eggs",
-          "legumes",
-          "dals",
-          "sprouts ",
-          "pulses",
+      "Protein_Veg":[
+                  
+          "Legumes",
+          "Dals",
+          "Sprouts "
+          "Mung_beans",
+          "Fava_beans",
+          "Lima_beans",
+          "Green_peas",
+          "Chickpeas",
+          "Lentils",
+          "Oats",
           "Beans",
           "Tofu",
-       
-    
+          "White_Rajma",
+          "Chia_seeds",
+                    
+      ],
+      "Protein_Non_veg":[
+                  
+          
+          "Goat",
+          "Chicken",
+          "Eggs",
+          "Beef",
+          "Pork",
+          "Salmon",
+          "Tuna",
+          "Prawns",
+          "Shrimps",
+          "Turkey_breast"
+
       ],
       "Dairy":[
           "buttermilk",
-          "flavored milks"
+          "flavored_milks"
           "yogurt",
-          "cheese",        
+          "cheese",
+          "Cottage_Cheese",
       ]
-    "":[
   }
